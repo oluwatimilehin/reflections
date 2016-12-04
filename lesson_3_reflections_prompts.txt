@@ -28,8 +28,8 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
-    I would collaborate without git and github by sharing files via email or a file sharing service.
+  Fill in your answer here
+  I would collaborate without git and github by sharing files via email or a file sharing service.
     Changes and adjustments cannot be made in real time using this method and the work will be 
     less effective.
 
@@ -38,4 +38,4 @@ master?  What benefits does each approach have?
 
     Fill in your answer here
     Making changes in a seperate branch instead of the master helps because we can experiment on
-    features and try risky things without it affecting the master branch.
+    features and try risky things without it affecting the master branch. This helps us to implement 'risky' features and explore our code. 
