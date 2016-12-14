@@ -1,3 +1,5 @@
 TIL the hard way to always commit small changes in git.
 
 I lost about 4 hours of work because I did not have a good version of my work to fall back to. 
+
+I'm trying to make at least one github contribution everyday for as long as I can.
